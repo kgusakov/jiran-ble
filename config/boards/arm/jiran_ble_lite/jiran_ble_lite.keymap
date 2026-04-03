@@ -24,7 +24,7 @@
                 lower_layer {
                        bindings = <
            &kp GRAVE &kp F1     &kp F2   &kp F3     &kp F4    &kp F5        &kp F6       &kp F7    &kp F8     &kp F9    &kp F10         &kp EQUAL
-  &kp F11  &kp TAB   &bt BT_CLR &kp HOME &sys_reset &kp PG_UP &kp C_VOL_UP  &kp C_VOL_UP &kp PG_UP &studio_unlock &kp HOME  &kp INS         &kp DEL        &kp F12
+  &kp F11  &kp TAB   &bt BT_CLR &kp HOME &sys_reset &kp PG_UP &studio_unlock  &kp C_VOL_UP &kp PG_UP &kp C_VOL_UP &kp HOME  &kp INS         &kp DEL        &kp F12
            &kp LSHFT &bt BT_NXT &kp LEFT &kp UP     &kp RIGHT &kp C_MUTE    &kp C_MUTE   &kp LEFT  &kp UP     &kp RIGHT &kp PSCRN       &mt RSHFT SLCK
            &kp LCTRL &bt BT_PRV &kp END  &kp DOWN   &kp PG_DN &kp C_VOL_DN  &kp C_VOL_DN &kp PG_DN &kp DOWN   &kp END   &kp PAUSE_BREAK &kp RCTRL
                                          &trans     &trans    &trans        &trans       &trans    &trans
