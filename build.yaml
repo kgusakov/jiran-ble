@@ -14,4 +14,6 @@
 ---
 include:
   - board: jiran_ble_lite_left
+    cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: jiran_ble_lite_right
+    cmake-args: -DCONFIG_ZMK_STUDIO=y
