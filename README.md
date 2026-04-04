@@ -1,12 +1,8 @@
-# Jiran BLE Lite GB ZMK config
+# Jiran BLE Lite keyboard firmware
+This repo was created from the template of the original firmware [repo](https://github.com/Ladniy/jiran-ble-lite-gb-zmk-config).
 
-ZMK config template for the [Jiran BLE Lite keyboard](https://github.com/Ladniy/jiran-ble-lite) (GB revision)
+I'm using it for testing my own fixes and features (like ZMK Studio integration). So, in most cases you must use original [repo](https://github.com/Ladniy/jiran-ble-lite-gb-zmk-config) from keyboard author [Ladniy](https://github.com/Ladniy).
 
-## How to change layout?
+## Credits
 
-1. Press "Use this template" button, then choose "Create a new repository" option
-2. Enable `Actions` to build your firmware
-3. Make changes to the `jiran_ble_lite.keymap` file or use [this graphical keymap editor](https://nickcoutsos.github.io/keymap-editor/)
-4. Go to `Actions` tab in your repository
-5. Wait for the GitHub Action to complete
-6. Grab `firmware.zip` file - it contains firmware for both of your halves
+* [Ladniy](https://github.com/Ladniy) - author of Jiran BLE Lite keyboard
